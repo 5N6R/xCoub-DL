@@ -8,7 +8,7 @@
 4)И нажмите ENTER,
 5)Видеофайл будет сохранен в то же место, откуда была запущена программа xCoud-DL.
 # xCoub-DL версия 0.0.2 бета (файл  xCoub-DL_002.py)
-![xCoub-DL](https://github.com/5N6R/xCoub-DL/blob/master/program.png)
+![xCoub-DL](https://github.com/5N6R/xCoub-DL/blob/master/program.png)/br
 Новое в программе:
 -- Появился графический интерфейс пользователя,
 -- Исправлены некоторые ошибки при скачивании coub'a
